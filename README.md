@@ -1,7 +1,6 @@
 # WalmartRVChallenge
 An Android app that shows a Recycler view of countries
 
-# LoveKWalmartCode
 
 Simple coding challenge for Walmart
 Displays a list of 249 countries on a scrollable screen
