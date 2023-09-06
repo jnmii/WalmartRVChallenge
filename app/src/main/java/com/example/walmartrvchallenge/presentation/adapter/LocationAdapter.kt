@@ -1,4 +1,4 @@
-package com.example.walmartrvchallenge.domain.adapter
+package com.example.walmartrvchallenge.presentation.adapter
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.walmartrvchallenge.R
-import com.example.walmartrvchallenge.domain.model.Country
+import com.example.walmartrvchallenge.presentation.model.Country
 
 class LocationAdapter(private var countries: List<Country>) : RecyclerView.Adapter<LocationAdapter.ViewHolder>() {
 

@@ -1,4 +1,4 @@
-package com.example.walmartrvchallenge.domain.ui
+package com.example.walmartrvchallenge.presentation.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -6,9 +6,9 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.walmartrvchallenge.R
-import com.example.walmartrvchallenge.domain.adapter.LocationAdapter
+import com.example.walmartrvchallenge.presentation.adapter.LocationAdapter
 import com.example.walmartrvchallenge.databinding.ActivityMainBinding
-import com.example.walmartrvchallenge.domain.viewModel.LocationViewModel
+import com.example.walmartrvchallenge.presentation.viewModel.LocationViewModel
 
 class MainActivity : AppCompatActivity() {
 

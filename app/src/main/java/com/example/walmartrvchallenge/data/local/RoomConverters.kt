@@ -1,8 +1,8 @@
 package com.example.walmartrvchallenge.data.local
 
 import androidx.room.TypeConverter
-import com.example.walmartrvchallenge.domain.model.Currency
-import com.example.walmartrvchallenge.domain.model.Language
+import com.example.walmartrvchallenge.presentation.model.Currency
+import com.example.walmartrvchallenge.presentation.model.Language
 import com.google.gson.Gson
 
 class RoomConverters {

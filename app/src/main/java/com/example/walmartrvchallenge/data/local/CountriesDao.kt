@@ -3,7 +3,7 @@ package com.example.walmartrvchallenge.data.local
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.Query
-import com.example.walmartrvchallenge.domain.model.Country
+import com.example.walmartrvchallenge.presentation.model.Country
 
 @Dao
 interface CountriesDao {

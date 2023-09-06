@@ -1,7 +1,7 @@
-package com.example.walmartrvchallenge.domain.model
+package com.example.walmartrvchallenge.presentation.model
 
 import androidx.room.Entity
-import com.example.walmartrvchallenge.domain.model.Country.Companion.tableName
+import com.example.walmartrvchallenge.presentation.model.Country.Companion.tableName
 
 @Entity(tableName = tableName)
 data class Country(

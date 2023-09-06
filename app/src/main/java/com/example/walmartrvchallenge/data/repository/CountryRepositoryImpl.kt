@@ -1,9 +1,8 @@
 package com.example.walmartrvchallenge.data.repository
 
 import android.util.Log
-import com.example.walmartrvchallenge.data.local.CountriesDao
 import com.example.walmartrvchallenge.data.network.ApiService
-import com.example.walmartrvchallenge.domain.model.Country
+import com.example.walmartrvchallenge.presentation.model.Country
 import retrofit2.Call
 
 class RepositoryImpl(private val apiService: ApiService) : CountryRepository {

@@ -1,4 +1,4 @@
-package com.example.walmartrvchallenge.domain.viewModel
+package com.example.walmartrvchallenge.presentation.viewModel
 
 import android.util.Log
 
@@ -6,7 +6,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.example.walmartrvchallenge.di.DependencyProvider
-import com.example.walmartrvchallenge.domain.model.Country
+import com.example.walmartrvchallenge.presentation.model.Country
 import com.example.walmartrvchallenge.data.network.ApiService
 import retrofit2.Call
 import retrofit2.Callback

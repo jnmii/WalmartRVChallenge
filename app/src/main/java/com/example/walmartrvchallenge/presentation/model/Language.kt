@@ -1,4 +1,4 @@
-package com.example.walmartrvchallenge.domain.model
+package com.example.walmartrvchallenge.presentation.model
 
 data class Language(
     val code: String,

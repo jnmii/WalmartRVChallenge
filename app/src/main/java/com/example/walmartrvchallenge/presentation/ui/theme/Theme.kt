@@ -1,4 +1,4 @@
-package com.example.walmartrvchallenge.domain.ui.theme
+package com.example.walmartrvchallenge.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
