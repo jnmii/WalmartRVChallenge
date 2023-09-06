@@ -1,5 +1,25 @@
 # WalmartRVChallenge
 An Android app that shows a Recycler view of countries
+
+# LoveKWalmartCode
+
+Simple coding challenge for Walmart
+Displays a list of 249 countries on a scrollable screen
+
+Architecture:
+MVVM
+
+Requirements:
+Android Studio IDE
+Minimum SDK: 24
+
+Language:
+Kotlin
+
+Libraries:
+Recyclerview
+Retrofit
+Okhttp
 ## Screenshots
 
 
